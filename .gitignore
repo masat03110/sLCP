@@ -1,0 +1,5 @@
+aligner
+*.out
+*.html
+include/*
+!include/myproj_bigint.hpp
