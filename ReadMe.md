@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/masat03110/sLCP/blob/main/LICENSE)
 ![Language](https://img.shields.io/badge/Language-C++%2FPython-blue)
 [![Dataset](https://img.shields.io/badge/Dataset-PDB-success)](https://www.rcsb.org/)
-![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey)
+[![Paper](https://img.shields.io/badge/Paper-Published-brightgreen)](https://doi.org/10.1007/978-981-95-0698-9_11)
 
 
 
@@ -106,13 +106,8 @@ Our methods were benchmarked on multiple PDB datasets. Compared to previous exac
 
 If you use this work in your research, please cite:
 
-```bash
-@inproceedings{tsukahara2025lcp,
-  title={Efficient and Accurate Approximation Algorithms for Protein Substructure Alignment},
-  author={Tsukahara, Masahito},
-  booktitle={Proceedings of [Conference Name] (coming soon)},
-  year={2025}
-}
+```
+Tsukahara, M., Shibuya, T. (2026). Efficient and Accurate Approximation Algorithms for Protein Structure Alignment. In: Tang, J., Lai, X., Cai, Z., Peng, W., Wei, Y. (eds) Bioinformatics Research and Applications. ISBRA 2025. Lecture Notes in Computer Science(), vol 15756. Springer, Singapore. https://doi.org/10.1007/978-981-95-0698-9_11
 ```
 
 ---
